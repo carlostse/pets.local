@@ -1,0 +1,70 @@
+/* Pets */
+{
+  "id": 1,
+  "name": "Hello",
+  "available_from": 1495356528,
+  "age": 2,
+  "species": "cat"
+}
+
+{
+  "id": 2,
+  "name": "Doggie",
+  "available_from": 1495356530,
+  "age": 3,
+  "species": "dog",
+  "breed": "labrador"
+}
+
+{
+  "id": 3,
+  "name": "Cathy",
+  "available_from": 1495356530,
+  "age": 4,
+  "species": "cat"
+}
+
+{
+  "id": 4,
+  "name": "Kathy",
+  "available_from": 1495356530,
+  "age": 4,
+  "species": "cat"
+}
+
+
+/* Customers */
+{
+  "id": 1,
+  "preference": {
+    "age": "2-5",
+    "species": [
+      "cat"
+    ],
+    "breed": []
+  }
+}
+
+{
+  "id": 2,
+  "preference": {
+    "age": "4-5",
+    "species": [
+      "cat"
+    ],
+    "breed": []
+  }
+}
+
+{
+  "id": 3,
+  "preference": {
+    "age": "1-5",
+    "species": [
+      "dog"
+    ],
+    "breed": [
+      "labrador"
+    ]
+  }
+}
